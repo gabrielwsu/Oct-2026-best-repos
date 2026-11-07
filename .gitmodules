@@ -1,0 +1,40 @@
+[submodule "popular/openclaw"]
+	path = popular/openclaw
+	url = https://github.com/openclaw/openclaw.git
+	branch = main
+[submodule "popular/autogpt"]
+	path = popular/autogpt
+	url = https://github.com/Significant-Gravitas/AutoGPT.git
+	branch = master
+[submodule "popular/ollama"]
+	path = popular/ollama
+	url = https://github.com/ollama/ollama.git
+	branch = main
+[submodule "popular/llama.cpp"]
+	path = popular/llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+	branch = master
+[submodule "popular/langchain"]
+	path = popular/langchain
+	url = https://github.com/langchain-ai/langchain.git
+	branch = master
+[submodule "popular/dify"]
+	path = popular/dify
+	url = https://github.com/langgenius/dify.git
+	branch = main
+[submodule "coding-agents/claude-code"]
+	path = coding-agents/claude-code
+	url = https://github.com/anthropics/claude-code.git
+	branch = main
+[submodule "coding-agents/opencode"]
+	path = coding-agents/opencode
+	url = https://github.com/anomalyco/opencode.git
+	branch = dev
+[submodule "coding-agents/goose"]
+	path = coding-agents/goose
+	url = https://github.com/block/goose.git
+	branch = main
+[submodule "coding-agents/codex"]
+	path = coding-agents/codex
+	url = https://github.com/openai/codex.git
+	branch = main
